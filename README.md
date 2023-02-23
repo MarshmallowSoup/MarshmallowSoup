@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Volodymyr Lysetskyi aka @MarshmallowSoup
-- 👀 I’m interested in devops engineering
-- 🌱 I’m currently learning c++, python, docker, Kubernetes, etc
-- 💞️ I’m looking to collaborate on some startups or internships
+- 👀 I’m devops engineer
 - 📫 How to reach me:
           telegram @lv07q
           instagram @_lysetetskyy
