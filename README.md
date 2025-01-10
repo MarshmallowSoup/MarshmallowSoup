@@ -6,14 +6,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=✨Welcome+to+my+GitHub+Profile!;✨I'm+a+DevOps+engineer✨" /></a>
 </p>
   </a>   
-   <a href="mailto:lysetskyyv@gmail.com?subject=Found your GitHub" target="_blank">
+   <a href="mailto:vlysetskyi.engineering@gmail.com?subject=Found your GitHub" target="_blank">
     <img  src="https://img.shields.io/badge/Personal%20email-C71610?style=for-the-badge&logo=gmail&logoColor=white">
   </a>  
-  </a>   
-   <a href="mailto:vlysetskyi@dedicatted.com?subject=Mail from GitHub" target="_blank">
-    <img  src="https://img.shields.io/badge/Corporate%20email-C71610?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>  
-  
   <p></p>
    <a href="https://www.linkedin.com/in/volodymyr-lysetskyy-48015b181/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -25,7 +20,7 @@
   
 
 - 👋 Hi, I’m Volodymyr Lysetskyi aka @MarshmallowSoup
-- 💼 I'm a DevOps engineer at <a href="https://dedicatted.com/" target="_blank"><img src="https://img.shields.io/badge/DEDICATTED-2FB44B"></a>
+- 💼 I'm a DevOps engineer
 - 💬 Talk to me about Infrastructure Architecture, CI/CD
 - 👯 I’m looking to collaborate on cool projects and startups
 
